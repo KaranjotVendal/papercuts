@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# superpowers working artifacts (local review only, never committed)
+/docs/superpowers/*
+
+# macOS
+.DS_Store
