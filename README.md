@@ -16,9 +16,12 @@ telemetry, nothing committed into your repositories. The file is the product.
 
 ## Status
 
-Design and specification are complete; the implementation is in progress. See
-[docs/design.md](docs/design.md) for the reasoning and [docs/spec.md](docs/spec.md) for the
-contract.
+Design, specification, and technical spec are complete. Implementation has not started.
+
+- [docs/design.md](docs/design.md) — why the tool exists and what counts as a papercut
+- [docs/spec.md](docs/spec.md) — the contract
+- [docs/tech-spec.md](docs/tech-spec.md) — module layout, invariants, and test slices
+- [docs/build-brief.md](docs/build-brief.md) — start here to build it
 
 ## Install
 
